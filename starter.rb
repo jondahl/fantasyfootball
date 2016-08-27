@@ -33,9 +33,9 @@ values["wr"][2] = 82
 values["wr"][3] = 51
 values["wr"][4] = 46
 values["wr"][5] = 38
-values["wr"][6] = 15
-values["wr"][7] = 4
-values["wr"][8] = 0
+values["wr"][6] = 22
+values["wr"][7] = 22
+values["wr"][8] = 22
 values["wr"][9] = -5
 values["wr"][10] = -5
 
